@@ -28,6 +28,7 @@ guess-language-spirit==0.5.3
 gunicorn==19.7.1
 idna==2.6
 itsdangerous==0.24
+ordereddict==1.1
 python-dateutil==2.6.1
 python-dotenv==0.7.1
 python-editor==1.0.3
