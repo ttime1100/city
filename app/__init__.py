@@ -22,6 +22,6 @@ bootstrap = Bootstrap(app)
 
 moment = Moment(app)
 
-dropzone = Dropzone(app)
+
 
 from app import routes, models
