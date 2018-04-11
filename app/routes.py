@@ -12,7 +12,7 @@ from app.forms import RegistrationForm
 from datetime import datetime
 from app.forms import EditProfileForm
 from app.forms import PostForm
-from app.models import Post
+from app.models import Post, User
 from app.forms import ResetPasswordRequestForm
 from app.email import send_password_reset_email
 from app.forms import ResetPasswordForm
