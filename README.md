@@ -27,7 +27,7 @@ MVP
 
 Wireframes
 
-<img src="screenshots/wireframe3.png"/>
+<img src="screenshots/wireframe3.PNG"/>
 
 <img src="screenshots/wireframe2.PNG"/>
 
