@@ -7,7 +7,7 @@ Scope
 City Native is a social site bringing people together in an interactive way through posts and building up connections with others members. Posts what's on your mind and let the city native universe connect with you. ​
 
 Framework
-<a href="screenshots/flask.png">
+<img href="screenshots/flask.png"/>
 
 User Stories
 
@@ -27,9 +27,9 @@ MVP
 
 Wireframes
 
-<a href="screenshots/wireframe3.png">
+<img href="screenshots/wireframe3.png"/>
 
-<a href="screenshots/wireframe2.PNG">
+<img href="screenshots/wireframe2.PNG"/>
 
 Future Implementations
 
